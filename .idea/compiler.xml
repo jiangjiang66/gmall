@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day-active" />
+        <module name="dw-chart" />
+        <module name="flinkTest" />
+        <module name="gmall-canal" />
+        <module name="gmall-common" />
+        <module name="gmall-dw2es" />
+        <module name="gmall-logger" />
+        <module name="gmall-publisher" />
+        <module name="gmall-realtime" />
+        <module name="gmall-test" />
+        <module name="gmallcanal" />
+        <module name="gmallcommon" />
+        <module name="gmallmock" />
+        <module name="gmallrealtime" />
+        <module name="gmalltest" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

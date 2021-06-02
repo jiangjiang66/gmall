@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea5ab725-0ba2-4a73-8751-07a7da423dda" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-common/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-mock/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-logger/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-realtime/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-test/target/" />
+    <ignored path="$PROJECT_DIR$/flinkTest/target/" />
+    <ignored path="$PROJECT_DIR$/day-active/target/" />
+    <ignored path="$PROJECT_DIR$/dw-chart/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-canal/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-publisher/target/" />
+    <ignored path="$PROJECT_DIR$/gmall-dw2es/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/gmall$MyESUtil.ic" NAME="MyESUtil Coverage Results" MODIFIED="1621656328576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wuhui.common.util.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LogUpload</find>
+      <find>hadoop</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\bigdataworkspace\gmall</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-logger/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/gmall-logger/src/main/java/com/atguigu/dw/gmalllogger/Controller/LoggerController.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/util/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-mock/src/main/scala/mock/util/RandomNumUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-mock/src/main/scala/mock/util/RandomOptions.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/WindowEample.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/quchong/PhoenixExample.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/example/RedisExample.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/example/WindowEample.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/example/PhoenixExample.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/GmallPublisherApplication.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-canal/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/util/MyKafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/gmall-common/src/main/java/com/wuhui/common/util/MyESUtil.scala" />
+        <option value="$PROJECT_DIR$/gmall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/StartupLog.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/DauApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/example/KafkaExample.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherServiceImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherServiceESImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/controller/PublisherController.java" />
+        <option value="$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/CanalClient.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/OrderInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/OrderApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/mapper/DauMapper.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/resources/mapper/DauMapper.xml" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherServicePhoenixImpl.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/controller/PublisherControllerPhoenix.java" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/AlertApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/src/main/resources/hive-site.xml" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/SaleDetailDayCount.scala" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/app/SaleDetailApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublishServiceESImpl.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/Stat.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/Opt.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/SaleInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/controller/PublishControllerES.scala" />
+        <option value="$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/CanalHandler.scala" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/SaleDetail.scala" />
+        <option value="$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/UserInfo.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/SaleDetail.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/OrderDetail.scala" />
+        <option value="$PROJECT_DIR$/gmall-realtime/src/main/scala/app/SaleApp.scala" />
+        <option value="$PROJECT_DIR$/gmall-common/src/main/java/com/wuhui/common/Constant.java" />
+        <option value="$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\maven-repository" />
+        <option name="mavenHome" value="D:/dev/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="flinkTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="330" />
+    <option name="y" value="310" />
+    <option name="width" value="990" />
+    <option name="height" value="625" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app.quchong" />
+      <recent name="sparkTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mydev\idea\gmall\gmall-realtime\src\main\scala\bean" />
+      <recent name="D:\mydev\idea\gmall\gmall-dw2es\src\main\resources" />
+      <recent name="D:\bigdataworkspace\gmall\gmall-canal\src\main\resources" />
+      <recent name="D:\bigdataworkspace\gmall\gmall-test\src\main\resources" />
+      <recent name="D:\bigdataworkspace\gmall\ gmall-realtime\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AlertApp">
+    <configuration name="AlertApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.AlertApp" />
+      <module name="gmall-realtime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CanalClient" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.dw.gamallcanal.CanalClient" />
+      <module name="gmall-canal" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.dw.gamallcanal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JsonMock" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mock.JsonMock" />
+      <module name="gmallmock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="KafkaExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.example.KafkaExample" />
+      <module name="gmall-realtime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OrderApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="app.OrderApp" />
+      <module name="gmall-realtime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DayActiveApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="day-active" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lisi.dayactive.DayActiveApplication" />
+    </configuration>
+    <configuration name="GmallLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.dw.gmalllogger.GmallLoggerApplication" />
+    </configuration>
+    <configuration name="GmallPublisherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-publisher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.dw.gmallpublisher.GmallPublisherApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DayActiveApplication" />
+      <item itemvalue="Spring Boot.GmallLoggerApplication" />
+      <item itemvalue="Spring Boot.GmallPublisherApplication" />
+      <item itemvalue="Application.JsonMock" />
+      <item itemvalue="Application.KafkaExample" />
+      <item itemvalue="Application.CanalClient" />
+      <item itemvalue="Application.OrderApp" />
+      <item itemvalue="Application.AlertApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlertApp" />
+        <item itemvalue="Application.JsonMock" />
+        <item itemvalue="Application.OrderApp" />
+        <item itemvalue="Application.CanalClient" />
+        <item itemvalue="Application.KafkaExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5ab725-0ba2-4a73-8751-07a7da423dda" name="Default" comment="" />
+      <created>1620144628820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620144628820</updated>
+      <workItem from="1620144634977" duration="1823000" />
+      <workItem from="1620147932294" duration="1086000" />
+      <workItem from="1620192359748" duration="13696000" />
+      <workItem from="1620277458735" duration="27327000" />
+      <workItem from="1620364681629" duration="9291000" />
+      <workItem from="1620407424864" duration="3332000" />
+      <workItem from="1620424657009" duration="11279000" />
+      <workItem from="1620544476524" duration="9493000" />
+      <workItem from="1620571375856" duration="3384000" />
+      <workItem from="1620608842979" duration="95000" />
+      <workItem from="1620657248442" duration="3851000" />
+      <workItem from="1620694471282" duration="4696000" />
+      <workItem from="1620884900203" duration="1880000" />
+      <workItem from="1620953865264" duration="840000" />
+      <workItem from="1621008219105" duration="2750000" />
+      <workItem from="1621049915493" duration="16796000" />
+      <workItem from="1621083917173" duration="6544000" />
+      <workItem from="1621145354991" duration="3135000" />
+      <workItem from="1621152421821" duration="1610000" />
+      <workItem from="1621154804051" duration="7907000" />
+      <workItem from="1621213275065" duration="786000" />
+      <workItem from="1621587981465" duration="2087000" />
+      <workItem from="1621604115689" duration="2028000" />
+      <workItem from="1621649630710" duration="8051000" />
+      <workItem from="1621767397295" duration="8551000" />
+      <workItem from="1621863043366" duration="1639000" />
+      <workItem from="1621990242471" duration="17874000" />
+      <workItem from="1622272738504" duration="2045000" />
+      <workItem from="1622359050137" duration="2082000" />
+      <workItem from="1622427022223" duration="24890000" />
+      <workItem from="1622511323843" duration="14675000" />
+      <workItem from="1622557709656" duration="6001000" />
+      <workItem from="1622597663447" duration="3206000" />
+    </task>
+    <task id="LOCAL-00001" summary="spark电商项目初始提交">
+      <created>1620547144600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620547144600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="日活图表展示">
+      <created>1620565496310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620565496310</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test01">
+      <created>1620572097200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620572097200</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hhehe">
+      <created>1620661595672</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620661595672</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hhehe">
+      <created>1620662697780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620662697780</updated>
+    </task>
+    <task id="LOCAL-00006" summary="04">
+      <created>1620663267816</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663267816</updated>
+    </task>
+    <task id="LOCAL-00007" summary="05">
+      <created>1620663352832</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663352832</updated>
+    </task>
+    <task id="LOCAL-00008" summary="033">
+      <created>1620663430824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663430824</updated>
+    </task>
+    <task id="LOCAL-00009" summary="06">
+      <created>1620663510256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663510256</updated>
+    </task>
+    <task id="LOCAL-00010" summary="07">
+      <created>1620663549493</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663549493</updated>
+    </task>
+    <task id="LOCAL-00011" summary="034">
+      <created>1620663589972</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663589972</updated>
+    </task>
+    <task id="LOCAL-00012" summary="011">
+      <created>1620663685972</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620663685972</updated>
+    </task>
+    <task id="LOCAL-00013" summary="011">
+      <created>1620696192539</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696192539</updated>
+    </task>
+    <task id="LOCAL-00014" summary="044">
+      <created>1620696508890</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696508890</updated>
+    </task>
+    <task id="LOCAL-00015" summary="044">
+      <created>1620696628654</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696628654</updated>
+    </task>
+    <task id="LOCAL-00016" summary="077">
+      <created>1620696679136</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696679136</updated>
+    </task>
+    <task id="LOCAL-00017" summary="099">
+      <created>1620696721135</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696721135</updated>
+    </task>
+    <task id="LOCAL-00018" summary="099">
+      <created>1620696899277</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620696899277</updated>
+    </task>
+    <task id="LOCAL-00019" summary="哈哈哈01">
+      <created>1620697624221</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620697624221</updated>
+    </task>
+    <task id="LOCAL-00020" summary="哈哈哈02">
+      <created>1620697661179</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1620697661179</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test01">
+      <created>1620697819682</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620697819682</updated>
+    </task>
+    <task id="LOCAL-00022" summary="haha">
+      <created>1620698924411</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620698924411</updated>
+    </task>
+    <task id="LOCAL-00023" summary="canal提交">
+      <created>1621100017515</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1621100017515</updated>
+    </task>
+    <task id="LOCAL-00024" summary="canal提交">
+      <created>1621154890813</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1621154890813</updated>
+    </task>
+    <task id="LOCAL-00025" summary="预警sparingStreaming完成">
+      <created>1621162672826</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1621162672826</updated>
+    </task>
+    <task id="LOCAL-00026" summary="预警sparingStreaming完成">
+      <created>1621162930224</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1621162930224</updated>
+    </task>
+    <task id="LOCAL-00027" summary="预警sparingStreaming完成">
+      <created>1621165259332</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1621165259332</updated>
+    </task>
+    <task id="LOCAL-00028" summary="es">
+      <created>1621675973724</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1621675973724</updated>
+    </task>
+    <task id="LOCAL-00029" summary="es">
+      <created>1622600822614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1622600822614</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="224730000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067025" side_tool="true" weight="0.32952926" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32372653" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.7526475" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" weight="0.329" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.26533523" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21540657" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.115549214" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597856" weight="0.104136944" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.28619304" />
+      <window_info anchor="right" id="Bean Validation" order="4" weight="0.3297587" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.42225394" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32838285" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Remote Host" order="9" weight="0.7526475" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49597856" visible="true" weight="0.25820258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2857143" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067025" side_tool="true" weight="0.32952926" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.42225394" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.21540657" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924356" weight="0.115549214" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32372653" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.27815014" />
+      <window_info anchor="right" id="Database" order="6" weight="0.329" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32838285" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.26533523" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_DETAILS" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spark电商项目初始提交" />
+    <MESSAGE value="日活图表展示" />
+    <MESSAGE value="hhehe" />
+    <MESSAGE value="04" />
+    <MESSAGE value="05" />
+    <MESSAGE value="033" />
+    <MESSAGE value="06" />
+    <MESSAGE value="07" />
+    <MESSAGE value="034" />
+    <MESSAGE value="011" />
+    <MESSAGE value="044" />
+    <MESSAGE value="077" />
+    <MESSAGE value="099" />
+    <MESSAGE value="哈哈哈01" />
+    <MESSAGE value="哈哈哈02" />
+    <MESSAGE value="test01" />
+    <MESSAGE value="haha" />
+    <MESSAGE value="canal提交" />
+    <MESSAGE value="预警sparingStreaming完成" />
+    <MESSAGE value="es" />
+    <option name="LAST_COMMIT_MESSAGE" value="es" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/gmall-mock/src/main/scala/mock/util/LogUpload.scala</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherServiceESImpl.java" />
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1871">
+          <caret line="81" column="17" lean-forward="true" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/resources/templates/chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="29" lean-forward="true" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/resources/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/utils/GetDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/resources/static/assets/js/easypiechart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5733">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/demo/utils/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-canal/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/entity/OrderInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/otter/canal.client/1.1.2/canal.client-1.1.2.jar!/com/alibaba/otter/canal/client/CanalConnectors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" column="116" selection-start-line="33" selection-start-column="116" selection-end-line="33" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/otter/canal.client/1.1.2/canal.client-1.1.2.jar!/com/alibaba/otter/canal/protocol/CanalEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10223">
+          <caret line="8348" column="23" selection-start-line="8348" selection-start-column="23" selection-end-line="8348" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/mapper/DauMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/resources/mapper/DauMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/app/OrderApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+          <folding>
+            <element signature="e#13#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/kafkaSender/MyKafkaSender.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/CanalClient.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/controller/PublisherControllerPhoenix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherServicePhoenixImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-mock/src/main/scala/mock/JsonMock.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="139" column="1" selection-start-line="139" selection-start-column="1" selection-end-line="139" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1646">
+          <caret line="87" column="41" lean-forward="true" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-logger/src/main/java/com/atguigu/dw/gmalllogger/GmallLoggerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/src/main/resources/hive-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/SaleDetailDayCount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/app/SaleDetailApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common/src/main/java/com/wuhui/common/util/MyESUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#30#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/Stat.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/Opt.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/bean/SaleInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/controller/PublishControllerES.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#50#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/util/MyKafkaUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/app/AlertApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="23" column="69" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="69" />
+          <folding>
+            <element signature="e#13#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-logger/src/main/java/com/atguigu/dw/gmalllogger/Controller/LoggerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/UserInfo.scala" />
+    <entry file="file://$PROJECT_DIR$/gmall-dw2es/src/main/scala/com/atguigu/dw/gmalldw2es/bean/SaleDetail.scala" />
+    <entry file="file://$PROJECT_DIR$/gmall-canal/src/main/java/com/atguigu/dw/gamallcanal/CanalHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/UserInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/StartupLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/SaleDetail.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="38" column="68" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="68" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/OrderInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/EventLog.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/AlertInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/bean/OrderDetail.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-common/src/main/java/com/wuhui/common/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="72" lean-forward="true" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-realtime/src/main/scala/app/SaleApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="121" column="59" lean-forward="true" selection-start-line="121" selection-start-column="59" selection-end-line="121" selection-end-column="59" />
+          <folding>
+            <element signature="e#13#40#0" expanded="true" />
+            <element signature="e#2568#2603#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublishServiceESImpl.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1133">
+          <caret line="250" column="3" lean-forward="true" selection-start-line="250" selection-start-column="3" selection-end-line="250" selection-end-column="3" />
+          <folding>
+            <element signature="e#47#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-publisher/src/main/java/com/atguigu/dw/gmallpublisher/service/PublisherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkTest/src/main/java/FlinkWord.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flinkTest/src/main/java/FlinkWordJavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>gmall-common:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmall-logger</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.101tec:zkclient:0.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
