@@ -1,6 +1,6 @@
 # gmall
 # gmall
-使用Spark,scala,hbase,ELK(es, logstash, kibana),redis,mysql,canal,kafka,SpringBoot,echarts等技术实现用户行为数据、业务数据的离线分析和实时分析
+使用mysql,canal,scala,sqoop,flume,kafka,hdfs,,hbase,zookeeper,Spark,ELK(es, logstash, kibana),redis,SpringBoot,echarts等技术实现用户行为数据、业务数据的离线分析和实时分析
 实时数据分析T+0
 
 用户行为数据
