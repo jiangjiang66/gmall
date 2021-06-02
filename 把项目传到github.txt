@@ -1,0 +1,6 @@
+D:\mydev\idea\gmall>git init
+D:\mydev\idea\gmall>git add .
+D:\mydev\idea\gmall>git commit -m "spark实时分析项目"
+
+D:\mydev\idea\gmall>git remote add origin https://github.com/jiangjiang66/gmall.git
+D:\mydev\idea\gmall>git push -u origin master
